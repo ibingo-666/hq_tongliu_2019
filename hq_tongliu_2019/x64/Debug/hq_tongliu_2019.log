@@ -1,0 +1,21 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  StdAfx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  MainData.cpp
+  hq_tongliu_2019.cpp
+  Func.cpp
+  DocData.cpp
+  BasicExcel.cpp
+BasicExcel.cpp(4438): warning C4805: “|=”: 在操作中将类型“int”与类型“bool”混合不安全
+  acrxEntryPoint.cpp
+  正在生成代码...
+e:\hq_code\hq_tongliu_2019\hq_tongliu_2019\hq_tongliu_2019.cpp(603): warning C4715: “ClassTongliu::isCellDouble”: 不是所有的控件路径都返回值
+e:\hq_code\hq_tongliu_2019\hq_tongliu_2019\hq_tongliu_2019.cpp(632): warning C4715: “ClassTongliu::isCellString”: 不是所有的控件路径都返回值
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+    正在创建库 x64\Debug\hq_tongliu_2019.lib 和对象 x64\Debug\hq_tongliu_2019.exp
+rxapi.lib(libinit.obj) : warning LNK4099: 未找到 PDB“rxapi.pdb”(使用“rxapi.lib(libinit.obj)”或在“E:\hq_code\hq_tongliu_2019\x64\Debug\rxapi.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  hq_tongliu_2019.vcxproj -> E:\hq_code\hq_tongliu_2019\x64\Debug\hq_tongliu_2019.arx
